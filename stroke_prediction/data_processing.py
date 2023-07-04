@@ -4,7 +4,6 @@ from sklearn.impute import KNNImputer
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.linear_model import LogisticRegression
-import pickle
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
